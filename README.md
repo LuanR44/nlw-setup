@@ -45,3 +45,8 @@ npm install
 ```bash
 npm start
 ```
+---
+
+<div align="center">
+© Taught by Rocketseat (https://github.com/rocketseat-education/nlw-setup-ignite)
+</div>
