@@ -3,7 +3,7 @@
 * Clone o repositório:
 
 ```bash
-$ git clone https://github.com/LuanR44/nlw-setup.git
+git clone https://github.com/LuanR44/nlw-setup.git
 ```
 
 ### Web:
